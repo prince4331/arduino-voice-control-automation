@@ -1,5 +1,7 @@
 ﻿# Voice Control Automation
 
+![Platform](https://img.shields.io/badge/platform-Arduino-1f6feb) ![Focus](https://img.shields.io/badge/focus-Embedded-informational) ![Status](https://img.shields.io/badge/status-Active-success)
+
 Blynk voice-triggered lighting with ultrasonic distance feedback streamed to the dashboard.
 
 ## Original Folder
